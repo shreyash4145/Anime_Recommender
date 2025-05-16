@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="MLOPS-PROJECT-2",
     version="0.1",
-    author="Sudhanshu",
+    author="Shreyash",
     packages=find_packages(),
     install_requires = requirements,
 )
